@@ -1,1 +1,1 @@
-Anonymized Github Repo for Gesture2Speech: Multimodal Mixture of Experts for Gesture-Driven Speech Synthesis paper
+Anonymized Github Repo for manuscript: Gesture2Speech: How Far Can Hand Movements Shape Expressive Speech?
